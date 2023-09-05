@@ -1,6 +1,6 @@
 # KAVEX - Kyvex-Style Intelligent Assistant (Capstone)
 
-**Short:** Modular AI agnet for summarization, MCQ generation, multilingual support (Hindi/English), and safe automations.
+**Short:** Modular AI agent for summarization, MCQ generation, multilingual support (Hindi/English), and safe automations.
 
 ## Contents
 - `backend/` - FastAPI prototype for agent orchestration, upload, and actions.
