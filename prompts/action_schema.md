@@ -5,5 +5,5 @@ Example: Summarize
   "action": "summarize_document",
   "language": "hi",
   "length": 10,
-  "summary_text": "..."
+  "summary_txt": "..."
 }
