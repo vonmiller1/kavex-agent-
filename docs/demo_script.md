@@ -1,4 +1,4 @@
-# Demo Script (3-5 minites)
+# Demo Script (3-5 minutes)
 
 1. Open frontend at http://localhost:3000
 2. Upload sample PDF (use tools to index: not implemented in prototype)
