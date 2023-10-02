@@ -6,4 +6,4 @@ aiofiles
 transformers
 sentence-transformers
 faiss-cpu
-tiktoken
+tokinize
