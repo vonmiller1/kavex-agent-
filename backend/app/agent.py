@@ -1,5 +1,5 @@
 # Prototype agent orchestrator (very simple)
-def detct_intent(text: str):
+def detect_intent(text: str):
     t = text.lower()
     if "summarize" in t:
         return "summarize_document"
