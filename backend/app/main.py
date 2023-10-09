@@ -2,7 +2,7 @@ from fastapi import FastAPI, UploadFile, File
 from pydantic import BaseModel
 import uuid, os
 
-app = FastAPI(title="KAVEX Agent Backend")
+app = FastAPI(title="KAVEX Agent Backned")
 
 class MessageIn(BaseModel):
     user_id: str
