@@ -19,7 +19,7 @@ function App(){
 
   return (
     <div style={{maxWidth:700, margin:'2rem auto', fontFamily:'sans-serif'}}>
-      <h2>KAVEX - Prototyype Chat</h2>
+      <h2>KAVEX - Prototype Chat</h2>
       <div style={{border:'1px solid #ddd', padding:12, minHeight:300}}>
         {messages.map((m,i)=>(
           <div key={i} style={{margin:'8px 0', textAlign: m.role==='user'?'right':'left'}}>
